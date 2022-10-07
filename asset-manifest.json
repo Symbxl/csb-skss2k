@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://symbxl.github.io/csb-skss2k/static/css/main.3e5b39de.chunk.css",
-    "main.js": "https://symbxl.github.io/csb-skss2k/static/js/main.68e371c0.chunk.js",
-    "main.js.map": "https://symbxl.github.io/csb-skss2k/static/js/main.68e371c0.chunk.js.map",
+    "main.js": "https://symbxl.github.io/csb-skss2k/static/js/main.d9a56553.chunk.js",
+    "main.js.map": "https://symbxl.github.io/csb-skss2k/static/js/main.d9a56553.chunk.js.map",
     "runtime-main.js": "https://symbxl.github.io/csb-skss2k/static/js/runtime-main.44b9f86a.js",
     "runtime-main.js.map": "https://symbxl.github.io/csb-skss2k/static/js/runtime-main.44b9f86a.js.map",
     "static/js/2.72dba023.chunk.js": "https://symbxl.github.io/csb-skss2k/static/js/2.72dba023.chunk.js",
     "static/js/2.72dba023.chunk.js.map": "https://symbxl.github.io/csb-skss2k/static/js/2.72dba023.chunk.js.map",
     "index.html": "https://symbxl.github.io/csb-skss2k/index.html",
-    "precache-manifest.5249842e45514d515da726e141339d99.js": "https://symbxl.github.io/csb-skss2k/precache-manifest.5249842e45514d515da726e141339d99.js",
+    "precache-manifest.e2a43f2807b9a27a2a577cbdfc396676.js": "https://symbxl.github.io/csb-skss2k/precache-manifest.e2a43f2807b9a27a2a577cbdfc396676.js",
     "service-worker.js": "https://symbxl.github.io/csb-skss2k/service-worker.js",
     "static/css/main.3e5b39de.chunk.css.map": "https://symbxl.github.io/csb-skss2k/static/css/main.3e5b39de.chunk.css.map",
     "static/js/2.72dba023.chunk.js.LICENSE.txt": "https://symbxl.github.io/csb-skss2k/static/js/2.72dba023.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.44b9f86a.js",
     "static/js/2.72dba023.chunk.js",
     "static/css/main.3e5b39de.chunk.css",
-    "static/js/main.68e371c0.chunk.js"
+    "static/js/main.d9a56553.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://symbxl.github.io/csb-skss2k/precache-manifest.5249842e45514d515da726e141339d99.js"
+  "https://symbxl.github.io/csb-skss2k/precache-manifest.e2a43f2807b9a27a2a577cbdfc396676.js"
 );
 
 self.addEventListener('message', (event) => {
